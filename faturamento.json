@@ -1,0 +1,97 @@
+{
+  "month" : "marco",
+  "faturamento_diario": [
+    {
+        "dia": 1,
+        "valor": 100
+    },
+    {
+        "dia": 2,
+        "valor": 400
+    },
+    {
+        "dia": 3,
+        "valor": 200
+    },
+    {
+        "dia": 6,
+        "valor": 100
+    },
+    {
+        "dia": 7,
+        "valor": 70
+    },
+    {
+        "dia": 8,
+        "valor": 50
+    },
+    {
+        "dia": 9,
+        "valor": 100
+    },
+    {
+        "dia": 10,
+        "valor": 500
+    },
+    {
+        "dia": 13,
+        "valor": 200
+    },
+    {
+        "dia": 14,
+        "valor": 100
+    },
+    {
+        "dia": 15,
+        "valor": 70
+    },
+    {
+        "dia": 16,
+        "valor": 50
+    },
+    {
+        "dia": 17,
+        "valor": 100
+    },
+    {
+        "dia": 20,
+        "valor": 500
+    },
+    {
+        "dia": 21,
+        "valor": 100
+    },
+    {
+        "dia": 22,
+        "valor": 70
+    },
+    {
+        "dia": 23,
+        "valor": 50
+    },
+    {
+        "dia": 24,
+        "valor": 100
+    },
+    {
+        "dia": 27,
+        "valor": 500
+    },
+    {
+        "dia": 28,
+        "valor": 500
+    },
+    {
+        "dia": 29,
+        "valor": 100
+    },
+    {
+        "dia": 30,
+        "valor": 70
+    },
+    {
+        "dia": 31,
+        "valor": 50
+    }
+  ]   
+}
