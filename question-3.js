@@ -36,4 +36,7 @@ fetch('faturamento.json')
 .catch(error => console.log(error))
 
 
+//no faturamento consta somente 22 dias, pois como estava na descrição os finais de semana e feriado não faria parte da conta
+
+
 
