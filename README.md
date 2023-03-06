@@ -1,5 +1,8 @@
 # Questions-Resolved
+
+Olá, optei por fazer no JavaScript, pois é a linguagem que tenho mais conhecimento
  
+ Obs:
  Cada script corresponde a uma questão: </br>
  Questão 1 = question-1.js </br>
  Questão 2 = question-2.js </br>
